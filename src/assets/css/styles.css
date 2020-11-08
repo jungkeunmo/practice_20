@@ -1,0 +1,111 @@
+.sc {
+    width: 100%;
+    height: 630px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.sc .sc__col1 {
+    width: 100%;
+    height: 315px;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.sc .sc__col1 .sc__col1__sec1 {
+    width: 50%;
+    height: 315px;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.sc .sc__col1 .sc__col1__sec1__node1 {
+    width: 50%;
+    height: 315px;
+
+    background-color: darksalmon;
+}
+
+.sc .sc__col1 .sc__col1__sec1__node2 {
+    width: 50%;
+    height: 315px;
+
+    background-color: darkgreen;
+}
+
+.sc .sc__col1 .sc__col1__sec2 {
+    width: 50%;
+    height: 315px;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.sc .sc__col1 .sc__col1__sec2__add1 {
+    width: 50%;
+    height: 315px;
+
+    background-color: skyblue;
+}
+
+.sc .sc__col1 .sc__col1__sec2__add2 {
+    width: 50%;
+    height: 315px;
+
+    background-color: aqua;
+}
+
+.sc .sc__col2 {
+    width: 100%;
+    height: 315px;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.sc .sc__col2 .sc__col2__box1 {
+    width: 50%;
+    height: 315px;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.sc .sc__col2 .sc__col2__box1__pug1 {
+    width: 50%;
+    height: 315px;
+
+    background-color: skyblue;
+}
+
+.sc .sc__col2 .sc__col2__box1__pug2 {
+    width: 50%;
+    height: 315px;
+
+    background-color: slateblue;
+}
+
+.sc .sc__col2 .sc__col2__box2 {
+    width: 50%;
+    height: 315px;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.sc .sc__col2 .sc__col2__box2__app1 {
+    width: 50%;
+    height: 315px;
+
+    background-color: springgreen;
+}
+
+.sc .sc__col2 .sc__col2__box2__app2 {
+    width: 50%;
+    height: 315px;
+
+    background-color: palegreen;
+}
